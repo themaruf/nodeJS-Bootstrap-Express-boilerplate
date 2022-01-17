@@ -26,8 +26,8 @@ app.get('/contact', function(request,response){
 	response.sendFile('contact.html',{root:path.join(__dirname,'./views')});
 });
 
-app.listen(3000,function(){
-	console.log('Listening at port 3000...');
+app.listen(8080,function(){
+	console.log('Listening at port 8080...');
 });
 
 module.exports = app;
