@@ -12,6 +12,8 @@ This is a simple boilerplate for integrating bootstrap with node
   
 **Make sure you already installed node js on your machine.(type "node -v" in your command prompt).
   
+# You can buy me a coffee here if you like this porject
+  
   <a href="https://www.buymeacoffee.com/themaruf" target="_blank"
     ><img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
